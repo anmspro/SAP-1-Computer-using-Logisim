@@ -7,6 +7,6 @@ This project is made for the third year second semester System Development (CSE-
 
 ## System Overview
 
-![System Overview](Images/Sample.png)
+![System Overview](Sample.png)
             
      Figure-1: Flow diagram of SAP-1 Computer using Logisim.
