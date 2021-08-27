@@ -1,9 +1,9 @@
 # SAP-1 Computer using Logisim
 
-A SAP-1 computer with multiple modules and circuits. The whole circuitry was built in Logisim software.  This project was made for Digital System Design Laboratory (CSE 4224)
+A SAP-1 computer with multiple modules and circuits. The whole circuitry was built in Logisim software.
 
 ## Motivation
-This project is made for the third year second semester System Development (CSE-3200) course.
+This project is made for Digital System Design Laboratory (CSE 4224).
 
 ## System Overview
 
